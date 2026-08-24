@@ -9,4 +9,6 @@ Working attacks:
 sans_intro
 sans_bonegap1
 sans_bonegap1fast
-sans_bonegap2
+sans_bonegap2 
+ 
+if it feels too hard or unfair... IT'S MEANT TO BE THIS WAY.
