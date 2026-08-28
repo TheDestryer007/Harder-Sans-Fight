@@ -1,0 +1,8 @@
+0,CombatZoneResize,220,190,420,390,TLResume,
+0,HeartMode,0,
+0,HeartTeleport,320,290,
+0.5,SansBody,HandLeft,
+0,SansAnimation,Idle,
+0,Sound,BoneStab,
+0,SineBones,100,24,360,50
+7.3,EndAttack,
